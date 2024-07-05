@@ -1,6 +1,6 @@
 <h1> Encriptador de Texto </h1> <h2> Proyecto Final - Alura ONE - Roberto Carlos TIERNO </h2>
 <strong> Tecnologías utilizadas: </strong> </br>
-HTML, Javascript, CSS.
+HTML5, Javascript, CSS3, Bootstrap 5.
 
 <strong> Objetivo: </strong> </br>
 Encriptar un texto con un determinado o desencriptarlo en caso de presentar el código encriptado.
